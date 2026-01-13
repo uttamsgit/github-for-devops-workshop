@@ -4,3 +4,5 @@ git add ..                  #to add all files in once
 git add filename.ext         # to add only file which we want
 git commit -m "massage"
 git restore filename.ext
+git remote add origin https://github.com/uttamsgit/reponame
+git remote set-url origin https://token@github.com/uttamsgit/reponame
