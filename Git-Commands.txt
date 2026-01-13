@@ -1,0 +1,6 @@
+Git Init 
+git status
+git add ..                  #to add all files in once 
+git add filename.ext         # to add only file which we want
+git commit -m "massage"
+git restore filename.ext
